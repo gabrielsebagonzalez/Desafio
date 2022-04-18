@@ -40,7 +40,7 @@ if (precioTotal == 0) {
     alert("Gracias por su visita!!!");
 } else {
     alert("Ud compró por un total de: " + precioTotal);
-    alert("Gracias por su visita");
+    alert("Gracias por su visita!!!");
 }
 
 
